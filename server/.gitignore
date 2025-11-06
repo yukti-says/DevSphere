@@ -1,0 +1,41 @@
+    
+    # Compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Dependencies
+node_modules/
+
+# Logs and databases
+*.log
+*.db
+
+# dotenv files
+.env
+.env.*
+
+# Uploaded files
+/media
+
+# Testing
+.nyc_output/
+coverage/
+
+# Misc
+*.swp
+*.bak
+*.swo
